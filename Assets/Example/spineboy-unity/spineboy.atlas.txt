@@ -1,0 +1,65 @@
+spineboy.png
+	size: 1024, 1024
+	filter: Linear, Linear
+	pma: true
+eye_indifferent
+	bounds: 550, 694, 93, 89
+eye_surprised
+	bounds: 834, 856, 93, 89
+front_bracer
+	bounds: 678, 774, 58, 80
+front_fist_closed
+	bounds: 466, 593, 75, 82
+	rotate: 90
+front_fist_open
+	bounds: 550, 605, 86, 87
+front_foot
+	bounds: 550, 785, 126, 69
+front_foot_bend1
+	bounds: 375, 492, 128, 70
+	rotate: 90
+front_foot_bend2
+	bounds: 275, 330, 108, 93
+	rotate: 90
+front_shin
+	bounds: 466, 670, 82, 184
+front_thigh
+	bounds: 214, 208, 48, 112
+front_upper_arm
+	bounds: 214, 109, 54, 97
+goggles
+	bounds: 466, 856, 261, 166
+gun
+	bounds: 2, 117, 210, 203
+head
+	bounds: 2, 322, 271, 298
+mouth_grind
+	bounds: 929, 896, 93, 59
+mouth_oooo
+	bounds: 929, 835, 93, 59
+mouth_smile
+	bounds: 447, 532, 93, 59
+muzzle
+	bounds: 2, 622, 462, 400
+neck
+	bounds: 796, 819, 36, 41
+rear_bracer
+	bounds: 738, 788, 56, 72
+rear_foot
+	bounds: 2, 2, 113, 60
+	rotate: 90
+rear_foot_bend1
+	bounds: 64, 49, 117, 66
+rear_foot_bend2
+	bounds: 729, 862, 103, 83
+rear_shin
+	bounds: 729, 947, 75, 178
+	rotate: 90
+rear_thigh
+	bounds: 909, 957, 65, 104
+	rotate: 90
+rear_upper_arm
+	bounds: 447, 483, 47, 87
+	rotate: 90
+torso
+	bounds: 275, 440, 98, 180
